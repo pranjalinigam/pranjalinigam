@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=28&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pranjali+Nigam;Backend+Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+Techie;Building+Scalable+Real+World+Applications🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4D6D&size=28&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pranjali+Nigam;Backend+Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+Techie;Building+Scalable+Real+World+Applications🚀" />
 </p>
 
 ---
